@@ -1,0 +1,19 @@
+{
+  "name": "unfuckie",
+  "version": "1.0.0",
+  "description": "Fix IE... For good!",
+  "main": "unfuckie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshux/unfuckie.git"
+  },
+  "author": "Kieran Heron <kieran@fhulpelt.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kshux/unfuckie/issues"
+  },
+  "homepage": "https://github.com/kshux/unfuckie#readme"
+}
