@@ -15,8 +15,10 @@
 * GitHub: https://github.com/kshux
 */
 
-let userAgent = navigator.userAgent;
-if (userAgent.includes("MSIE")) {
-  alert('Sorry, Something went wrong... Please try again.');
-  window.location.replace("https://www.google.com/chrome/index.html");
+module.exports = () => {
+    let userAgent = navigator.userAgent;
+    if (userAgent.includes("MSIE")) {
+      alert('Sorry, Something went wrong... Please try again.');
+      window.location.replace("https://www.google.com/chrome/index.html");
+    }
 }
