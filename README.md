@@ -1,4 +1,4 @@
-# UnfuckIE
+# FixIEForGood
 
 Has your boss ever said something like:
 > One of our clients says that it doesn't work on IE
