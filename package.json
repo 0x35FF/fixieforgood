@@ -1,19 +1,19 @@
 {
-  "name": "unfuckie",
+  "name": "fixieforgood",
   "version": "1.0.0",
   "description": "Fix IE... For good!",
-  "main": "unfuckie.js",
+  "main": "fixitforgood.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kshux/unfuckie.git"
+    "url": "git+https://github.com/kshux/fixieforgood.git"
   },
-  "author": "Kieran Heron <kieran@fhulpelt.com>",
+  "author": "Kieran Heron <hello@kieran.pro>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kshux/unfuckie/issues"
+    "url": "https://github.com/kshux/fixieforgood/issues"
   },
-  "homepage": "https://github.com/kshux/unfuckie#readme"
+  "homepage": "https://github.com/kshux/fixieforgood#readme"
 }
